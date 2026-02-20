@@ -1,0 +1,116 @@
+[
+  {
+    "order_id": "O0001",
+    "username": "zainab",
+    "items": [
+      {
+        "product_id": "P1001",
+        "qty": 5,
+        "unit_price": 9.99
+      }
+    ],
+    "total": 49.95,
+    "timestamp": "2026-02-19 19:18:20"
+  },
+  {
+    "order_id": "O0002",
+    "username": "zainab",
+    "items": [
+      {
+        "product_id": "P1002",
+        "qty": 6,
+        "unit_price": 19.99
+      }
+    ],
+    "total": 119.94,
+    "timestamp": "2026-02-20 11:36:16"
+  },
+  {
+    "order_id": "O0003",
+    "username": "zainab",
+    "items": [
+      {
+        "product_id": "P1001",
+        "qty": 5,
+        "unit_price": 9.99
+      }
+    ],
+    "total": 49.95,
+    "timestamp": "2026-02-20 15:45:21"
+  },
+  {
+    "username": "zainab",
+    "order_id": "O0004",
+    "items": [
+      {
+        "name": "USB-C Cable",
+        "qty": 2,
+        "unit_price": 9.99
+      }
+    ],
+    "total": 19.98,
+    "date_time": "2026-02-20 16:27"
+  },
+  {
+    "username": "zainab",
+    "order_id": "O0005",
+    "items": [
+      {
+        "name": "USB-C Cable",
+        "qty": 4,
+        "unit_price": 9.99
+      }
+    ],
+    "total": 39.96,
+    "date_time": "2026-02-20 16:30"
+  },
+  {
+    "username": "zainab",
+    "order_id": "O0006",
+    "items": [
+      {
+        "name": "USB-C Cable",
+        "qty": 4,
+        "unit_price": 9.99
+      },
+      {
+        "name": "Wireless Mouse",
+        "qty": 4,
+        "unit_price": 19.99
+      }
+    ],
+    "total": 119.92,
+    "date_time": "2026-02-20 16:38"
+  },
+  {
+    "username": "zainab",
+    "order_id": "O0007",
+    "items": [
+      {
+        "name": "USB-C Cable",
+        "qty": 4,
+        "unit_price": 9.99
+      },
+      {
+        "name": "Wireless Mouse",
+        "qty": 4,
+        "unit_price": 19.99
+      }
+    ],
+    "total": 119.92,
+    "date_time": "2026-02-20 16:44"
+  },
+  {
+    "username": "zainab",
+    "order_id": "O0008",
+    "items": [
+      {
+        "name": "USB-C Cable",
+        "qty": 1,
+        "unit_price": 9.99
+      }
+    ],
+    "total": 9.99,
+    "date_time": "2026-02-20 16:53"
+  }
+]
